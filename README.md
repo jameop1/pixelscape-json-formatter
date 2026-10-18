@@ -12,4 +12,4 @@ A retro terminal-style developer utility for formatting, minifying, validating, 
 
 ## Getting Started
 
-Open `index.html` in any modern web browser.
+Open `index.html` in any modern web browser or try it on https://jameop1.github.io/pixelscape-json-formatter/
